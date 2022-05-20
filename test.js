@@ -7,7 +7,7 @@ reportdate = disp();
 // nor.link文の記事詳細取得
 
 // formに入力
-document.getElementsByName("sampleinput")[0].value = reportdate;
+//document.getElementsByName("sampleinput")[0].value = reportdate;
 document.sampleform.submit();
 
 
